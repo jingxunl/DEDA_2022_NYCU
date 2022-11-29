@@ -3,7 +3,7 @@ Name of Quantlet: 'Fraud_Detection_EDA'
 Published in: 'DEDA class 2022'
 
 Description: 'Exploratory analysis of data to extract the pattern of fraudulent activities.'
-Submitted: '22 Nov 2022'
+Submitted:  '22 Nov 2022'
 
 Keywords: 
 - 'Fraud'
@@ -12,8 +12,18 @@ Keywords:
 - 'Machine learning'
 - 'OLS Regression'
 
+Output:
+- 'fig01_corrplot.png'
+- 'fig02_fraud_count.png'
+- 'fig03_type_count.png'
+- 'fig04_type_count_fraud.png'
+- 'fig05_mean_amount_fraud.png'
+- 'fig06_mean_amount_type.png'
+- 'fig07_error_balance_scatter.png'
+- 'fig08_transaction_hour.png'
 
 Author: 
+- 'Wolfgang Karl Härdle'
 - 'Jing-Xun Lin'
 - 'David Jheng'
 - 'Ying-Yu Chen'
